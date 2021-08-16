@@ -72,7 +72,7 @@ Position: Key team member
 * Developed an APP using Android studio, to enable the SQL database connection, data acquisition, analysis, drawing and other functions on the Android terminal
 * Employed deep learning methods to analyze data to achieve the decision-making of farmers'' planting recommendations based on environmental factors, and to provide farmers with pest and disease warning and water and fertilizer ratio management
 
-# Working Experience
+# WORKING EXPERIENCE
 
 **Tesla Core Automation Engineering Team** *06/2021-present*
 
