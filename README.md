@@ -11,11 +11,13 @@ If you want to have a chat, feel free to contact me~
 ***University of California at Berkeley   08/2020 - 05/2021***
 Major: Robotics and Autonomous Systems. GPA: 3.92/4.0
 Degree: **Master of Engineering**
+
 **Core Courses**: Advanced Control Systems, Experimental Advanced Control Design, Hybrid Systems and Intelligent Control
 
 ***Nanjing Agricultural University    09/2016-06/2020***
 Major: Mechanical Design Manufacturing and Automation, GPA:3.91/4.5, Rank:1/58
-Degree: Bachelor of Engineering
+Degree: **Bachelor of Engineering**
+
 **Core Courses**: Advanced Mathematics, Graphing of Engineering, Theory of Machines and Mechanisms, Digital Modeling, Mechanical Design, Mechatronics Technology.
 
 ***Honors***: National Scholarship(Top 1 out of 60 students)  *11/2017*
@@ -33,6 +35,7 @@ Maohua Xiao, You Ma, Ziang Deng, Zhixiang Feng, Jingjing Kang, Shishuang Hou.A M
 # RESEARCHES
 
 **Capstone Project: Robotics at home** *09/2020-05/2021*
+
 Position: Software developing leader
 
 * In charge of programming and build the system framework
@@ -40,6 +43,7 @@ Position: Software developing leader
 * Build simulation environment and finish tests
 
 **Course Project of Advanced Control Design -Autonomous Drone Racing**   *10/2020-11/2020*
+
 Position: Team Member
 
 * Build a model for drone dynamics with cost and constraints
@@ -53,6 +57,7 @@ Position: Team Member
 * Designed an app for users and optimized the network accuracy to 90%.
 
 **Development of Rice Disease Detection System Based on Android Image Recognition**     *03/2018-05/2019*
+
 Position: Team leader
 
 * Accomplished the image processing of rice blast through MATLAB
@@ -61,6 +66,7 @@ Position: Team leader
 * Successfully finished image processing, and optimized the system interface through Android studio
 
 **Shedyou Technology: Build a Greenhouse Think Tank Service System**   *03/2018-05/2019*
+
 Position: Key team member
 
 * Developed an APP using Android studio, to enable the SQL database connection, data acquisition, analysis, drawing and other functions on the Android terminal
@@ -69,6 +75,7 @@ Position: Key team member
 # Working Experience
 
 **Tesla Core Automation Engineering Team** *06/2021-present*
+
 Position: Associate Control Engineer
 
 * Develop Tesla Standard Control Template and SCADA for autonomous manufacturing.
@@ -76,6 +83,7 @@ Position: Associate Control Engineer
 * Write PLC programs for DU EOL to control the working parts
 
 **Nanjing Seeta Tech Technology Co., Ltd**   *07/2019-08/2019*
+
 Position: Algorithmic intern of New Retail Department
 
 * Mainly responsible for designing an APP for food plate items detection and identification
@@ -108,5 +116,5 @@ MIT "Artificial Intelligence and Robotics" International Certificate Program  *0
 -Learned about artificial intelligence and robotics, and finished the class presentation
 
 Student Union, Minister of Career Development Department   *09/2017-06/2018*
--Organized a number of activities, including Business Incubator Visit, Mock Interviews and etc.
+-Organized a number of activities including Business Incubator Visit, Mock Interviews and etc.
 -Obtained the title of "Outstanding Minister of the Student Union"
