@@ -6,6 +6,8 @@ I have graduated as a Master of Engineering student from *UC Berkeley*. Now I am
 
 If you want to have a chat, feel free to contact me~
 
+[📞](+8613812639957) [📂](Doc/CV-Ziang%20Deng2021-8-17.pdf)
+
 # EDUCATION BACKGROUND
 
 ***University of California at Berkeley   08/2020 - 05/2021***
