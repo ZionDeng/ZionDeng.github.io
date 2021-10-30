@@ -6,7 +6,7 @@ I have graduated as a Master of Engineering student from *UC Berkeley*. Now I am
 
 If you want to have a chat, feel free to contact me~
 
-[📂](Doc/CV-Ziang%20Deng2021-8-17.pdf)
+[📂](Doc/CV.pdf)
 
 # Educational Background
 
@@ -92,21 +92,21 @@ Position: Algorithmic intern of New Retail Department
 
 # Awards
 
-|                                                                                                            |                                   |           |
-| ---------------------------------------------------------------------------------------------------------- | --------------------------------- | --------- |
-| [**National Scholarship**](Doc/Awards/NationalScholarship.pdf)                                             | _Top 1/60  _                        | 11/2017 |
-| [**Kyoto International Entrepreneurship Contest for University Students**](Doc/Awards/Kyoto.pdf)          | _Extraordinary in Jiangsu Province_ | 05/2019   |
-| [**Graduation Team Thesis**](Doc/Awards/team-thesis.jpg)                                                   | _Graduation Thesis_             | 06/2020 |
-| [**Chuangxing Cup Innovation and Entrepreneurship Competition**](Doc/Awards/创星杯.pdf)                    | _First Price_                 | 10/2018 |
-| [**Jiangsu Energy Conservation and Environmental Protection Creative Competition**](Doc/Awards/丁香杯.pdf) | _First Prize_                   | 09/2018 |
-| [**Jiangsu 2018 College Students' Entrepreneurship Competition**](Doc/Awards/创青春.pdf)                   | _Silver Award_                  | 07/2018 |
-| [**The 8h East China College Students CAD Application Skills Competition**](Doc/Awards/CAD.pdf)            | _Third Prize_                   | 06/2018   |
-| [**2018 National English Competition for College Students**](Doc/Awards/NECCS.pdf)                       | _Third Prize_                   | 05/2018 |
-| [**The 3d National Intelligent Agricultural Equipment Innovation Competition**](Doc/Awards/东方红.pdf)     | _National Second Prize_        | 12/2017* |
-| [**Jiangsu 14h Higher Mathematics Competition**](Doc/Awards/高数.pdf)                                      | _Second Prize_                  | 06/2017   |
+|                                                                                                            |                                     |          |
+| ---------------------------------------------------------------------------------------------------------- | ----------------------------------- | -------- |
+| [**National Scholarship**](Doc/Awards/NationalScholarship.pdf)                                             | _Top 1/60_                          | 11/2017  |
+| [**Kyoto International Entrepreneurship Contest for University Students**](Doc/Awards/Kyoto.pdf)           | _First Prize_                       | 05/2019  |
+| [**Graduation Team Thesis**](Doc/Awards/team-thesis.jpg)                                                   | _Extraordinary in Jiangsu Province_ | 06/2020  |
+| [**Chuangxing Cup Innovation and Entrepreneurship Competition**](Doc/Awards/创星杯.pdf)                    | _First Price_                       | 10/2018  |
+| [**Jiangsu Energy Conservation and Environmental Protection Creative Competition**](Doc/Awards/丁香杯.pdf) | _First Prize_                       | 09/2018  |
+| [**Jiangsu 2018 College Students' Entrepreneurship Competition**](Doc/Awards/创青春.pdf)                   | _Silver Award_                      | 07/2018  |
+| [**The 8h East China College Students CAD Application Skills Competition**](Doc/Awards/CAD.pdf)            | _Third Prize_                       | 06/2018  |
+| [**2018 National English Competition for College Students**](Doc/Awards/NECCS.pdf)                         | _Third Prize_                       | 05/2018  |
+| [**The 3d National Intelligent Agricultural Equipment Innovation Competition**](Doc/Awards/东方红.pdf)     | _National Second Prize_             | 12/2017* |
+| [**Jiangsu 14h Higher Mathematics Competition**](Doc/Awards/高数.pdf)                                      | _Second Prize_                      | 06/2017  |
 
 
-# EXTRACURRICULAR ACTIVITIES
+# Extracurricular Activities
 
 MIT "Artificial Intelligence and Robotics" International Certificate Program  *01/2019-02/2019*
 -Learned about artificial intelligence and robotics, and finished the class presentation
