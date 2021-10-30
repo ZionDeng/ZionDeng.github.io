@@ -1,4 +1,4 @@
-# Zion Deng
+# Zion DENG
 
 Hey, this is my personal website, where you can get to know my basic information and related work. Turn to [Chinese](http://ziondeng.com/zh.php?tdsourcetag=s_pctim_aiomsg)(not recommended)
 
@@ -6,9 +6,9 @@ I have graduated as a Master of Engineering student from *UC Berkeley*. Now I am
 
 If you want to have a chat, feel free to contact me~
 
-[📞](+8613812639957) [📂](Doc/CV-Ziang%20Deng2021-8-17.pdf)
+[📂](Doc/CV-Ziang%20Deng2021-8-17.pdf)
 
-# EDUCATION BACKGROUND
+# Educational Background
 
 ***University of California at Berkeley   08/2020 - 05/2021***
 Major: Robotics and Autonomous Systems. GPA: 3.92/4.0
@@ -22,9 +22,7 @@ Degree: **Bachelor of Engineering**
 
 **Core Courses**: Advanced Mathematics, Graphing of Engineering, Theory of Machines and Mechanisms, Digital Modeling, Mechanical Design, Mechatronics Technology.
 
-***Honors***: National Scholarship(Top 1 out of 60 students)  *11/2017*
-
-# PUBLICATION & PATENT
+# Publications & Patent
 
 Maohua Xiao, Ziang Deng, You Ma, et al. Ratings of Rice Leaf Blast Disease Based on Image Processing and Stepwise Regression[J]. Applied Engineering in Agriculture,2019,35(6):1037-1043.
 
@@ -34,7 +32,7 @@ Jingjing Kang, You Ma, Maohua Xiao, Zhixiang Feng, Ziang Deng, Sanqin Zhao. Rice
 
 Maohua Xiao, You Ma, Ziang Deng, Zhixiang Feng, Jingjing Kang, Shishuang Hou.A Method for Rice Blast Identification Based on Aerial Field Image, August 2021. No.:2021071900616710.
 
-# RESEARCHES
+# Researches
 
 **Capstone Project: Robotics at home** *09/2020-05/2021*
 
@@ -74,7 +72,7 @@ Position: Key team member
 * Developed an APP using Android studio, to enable the SQL database connection, data acquisition, analysis, drawing and other functions on the Android terminal
 * Employed deep learning methods to analyze data to achieve the decision-making of farmers'' planting recommendations based on environmental factors, and to provide farmers with pest and disease warning and water and fertilizer ratio management
 
-# WORKING EXPERIENCE
+# Work Experience
 
 **Tesla Core Automation Engineering Team** *06/2021-present*
 
@@ -92,25 +90,21 @@ Position: Algorithmic intern of New Retail Department
 * Adopted development board with NPU(neural network process units) to realize the functions
 * Self-learned and used deep learning models including YOLO and RelD, successfully reduced the recognition time of single image from 1.8 seconds to 0.5 seconds
 
-# AWARDS
+# Awards
 
-Provincial Extraordinary Team **Graduation Thesis**  *06/2020*
+|                                                                                                            |                                   |           |
+| ---------------------------------------------------------------------------------------------------------- | --------------------------------- | --------- |
+| [**National Scholarship**](Doc/Awards/NationalScholarship.pdf)                                             | _Top 1/60  _                        | 11/2017 |
+| [**Kyoto International Entrepreneurship Contest for University Students**](Doc/Awards/Kyoto.pdf)          | _Extraordinary in Jiangsu Province_ | 05/2019   |
+| [**Graduation Team Thesis**](Doc/Awards/team-thesis.jpg)                                                   | _Graduation Thesis_             | 06/2020 |
+| [**Chuangxing Cup Innovation and Entrepreneurship Competition**](Doc/Awards/创星杯.pdf)                    | _First Price_                 | 10/2018 |
+| [**Jiangsu Energy Conservation and Environmental Protection Creative Competition**](Doc/Awards/丁香杯.pdf) | _First Prize_                   | 09/2018 |
+| [**Jiangsu 2018 College Students' Entrepreneurship Competition**](Doc/Awards/创青春.pdf)                   | _Silver Award_                  | 07/2018 |
+| [**The 8h East China College Students CAD Application Skills Competition**](Doc/Awards/CAD.pdf)            | _Third Prize_                   | 06/2018   |
+| [**2018 National English Competition for College Students**](Doc/Awards/NECCS.pdf)                       | _Third Prize_                   | 05/2018 |
+| [**The 3d National Intelligent Agricultural Equipment Innovation Competition**](Doc/Awards/东方红.pdf)     | _National Second Prize_        | 12/2017* |
+| [**Jiangsu 14h Higher Mathematics Competition**](Doc/Awards/高数.pdf)                                      | _Second Prize_                  | 06/2017   |
 
-Kyoto International Entrepreneurship Contest for University Students 2019, **First Price** *05/2019*
-
-2018 Jiangsu Association of Agricultural Science Societies 2nd Chuangxing Cup Innovation and Entrepreneurship Competition, ***First Price*** of Innovation Group *10/2018*
-
-"Dingxiang-Chuangka Cup"Energy Conservation and Environmental Protection Creative Competition held by Jiangsu Energy Research Association, **First Prize**  *09/2018*
-
-2018 College Students' Entrepreneurship Competition in Jiangsu Province, **Silver Award** *07/2018*
-
-The 8h East China College Students CAD Application Skills Competition, **Third Prize** of Mechanical Engineering Drawing  06/2018
-
-06/20182018 National English Competition for College Students, **Third Prize** for Brand C *05/2018*
-
-2017"Dongfanghong Cup"The 3d National Intelligent Agricultural Equipment Innovation Competition, **National Second Prize**  *12/2017*
-
-The 14h Higher Mathematics Competition for Colleges and Universities in Jiangsu Province, **Second Prize** of Undergraduate Level II Group  06/2017
 
 # EXTRACURRICULAR ACTIVITIES
 
