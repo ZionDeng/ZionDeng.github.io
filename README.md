@@ -1,6 +1,6 @@
 # Zion DENG
 
-Hey, this is my personal website, where you can get to know my basic information and related work. Turn to [Chinese](http://ziondeng.com/zh.php?tdsourcetag=s_pctim_aiomsg)(not recommended)
+Hey, this is my personal website, where you can get to know my basic information and related work. Turn to [Chinese](https://ziondeng.github.io/CN/)(not recommended)
 
 I have graduated as a Master of Engineering student from *UC Berkeley*. Now I am an assistant automation engineer at *Tesla Shanghai*.
 
