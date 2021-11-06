@@ -6,7 +6,7 @@ I have graduated as a Master of Engineering student from *UC Berkeley*. Now I am
 
 If you want to have a chat, feel free to contact me~
 
-[📂](Doc/CV.pdf)
+[📂](Doc/CV-Ziang%20Deng.pdf.pdf)
 
 # Educational Background
 
