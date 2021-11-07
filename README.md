@@ -24,13 +24,14 @@ Degree: **Bachelor of Engineering**
 
 # Publications & Patent
 
-Maohua Xiao, Ziang Deng, You Ma, et al. Ratings of Rice Leaf Blast Disease Based on Image Processing and Stepwise Regression[J]. Applied Engineering in Agriculture,2019,35(6):1037-1043.
+[Maohua Xiao, Ziang Deng, You Ma, et al. Ratings of Rice Leaf Blast Disease Based on Image Processing and Stepwise Regression[J]. Applied Engineering in Agriculture, 2019, 35(6):1037-1043.](Doc\Publications\Ratings%20of%20Rice%20Leaf%20Blast%20Disease%20Based%20on%20Image%20Processing%20and%20Stepwise%20Regression.pdf)
 
-Maohua Xiao, You Ma, Zhixiang Feng, Ziang Deng, Shishuang Hou, Lei Shu, ZhiXiong Lu. Rice Blast Recognition Based on Principal Component Analysis and Neural Network, Computers and Electronics in Agriculture (ISSN:0168-1699), August 2018,p.482-490.
+[Maohua Xiao, You Ma, Zhixiang Feng, Ziang Deng, Shishuang Hou, Lei Shu, ZhiXiong Lu. Rice Blast Recognition Based on Principal Component Analysis and Neural Network, Computers and Electronics in Agriculture (ISSN:0168-1699), August 2018,p.482-490.](Doc/Publications/Rice%20blast%20recognition%20based%20on%20principal%20component%20analysis%20and%20neural%20network.pdf)
 
-Jingjing Kang, You Ma, Maohua Xiao, Zhixiang Feng, Ziang Deng, Sanqin Zhao. Rice Blast Recognition Based on Image Processing and BP Neural Network, International Agricultural Engineering Journal(ISSN:0858-2114), March 2018,p.250-256.
+[Jingjing Kang, You Ma, Maohua Xiao, Zhixiang Feng, Ziang Deng, Sanqin Zhao. Rice Blast Recognition Based on Image Processing and BP Neural Network, International Agricultural Engineering Journal(ISSN:0858-2114), March 2018,p.250-256.](Doc/Publications/Rice%20blast%20recognition%20based%20on%20image%20processing%20and%20BP%20neural%20network.pdf)
 
-Maohua Xiao, You Ma, Ziang Deng, Zhixiang Feng, Jingjing Kang, Shishuang Hou.A Method for Rice Blast Identification Based on Aerial Field Image, August 2021. No.:2021071900616710.
+
+[Maohua Xiao, You Ma, Ziang Deng, Zhixiang Feng, Jingjing Kang, Shishuang Hou.A Method for Rice Blast Identification Based on Aerial Field Image, August 2021. No.:2021071900616710.](Doc\Publications\发明专利-一种基于航拍农田图像判别水稻稻瘟病病情的方法.pdf)
 
 # Researches
 
