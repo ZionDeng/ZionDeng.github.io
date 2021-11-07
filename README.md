@@ -6,6 +6,8 @@ I have graduated as a Master of Engineering student from *UC Berkeley*. Now I am
 
 If you want to have a chat, feel free to contact me~
 
+Another website of mine is [ziondeng.com](http://ziondeng.com/). But it may not be the most up-to-date.
+
 [📂](Doc/CV-Ziang%20Deng.pdf.pdf)
 
 # Educational Background
@@ -31,7 +33,7 @@ Degree: **Bachelor of Engineering**
 [Jingjing Kang, You Ma, Maohua Xiao, Zhixiang Feng, Ziang Deng, Sanqin Zhao. Rice Blast Recognition Based on Image Processing and BP Neural Network, International Agricultural Engineering Journal(ISSN:0858-2114), March 2018,p.250-256.](Doc/Publications/Rice%20blast%20recognition%20based%20on%20image%20processing%20and%20BP%20neural%20network.pdf)
 
 
-[Maohua Xiao, You Ma, Ziang Deng, Zhixiang Feng, Jingjing Kang, Shishuang Hou.A Method for Rice Blast Identification Based on Aerial Field Image, August 2021. No.:2021071900616710.](Doc\Publications\发明专利-一种基于航拍农田图像判别水稻稻瘟病病情的方法.pdf)
+[Maohua Xiao, You Ma, Ziang Deng, Zhixiang Feng, Jingjing Kang, Shishuang Hou.A Method for Rice Blast Identification Based on Aerial Field Image, August 2021. No.:2021071900616710.](Doc/Publications/Patent%20-%20A%20Method%20for%20Rice%20Blast%20Identification%20Based%20on%20Aerial%20Field%20Image.pdf.pdf)
 
 # Researches
 
