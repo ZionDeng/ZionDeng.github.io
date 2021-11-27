@@ -1,6 +1,6 @@
 # Zion DENG
 
-Hey, this is my personal website, where you can get to know my basic information and related work. Turn to [Chinese](https://ziondeng.github.io/CN/)(not recommended)
+Hey, this is my personal website, where you can get to know my basic information and related work. Turn to [Chinese中文](https://ziondeng.github.io/CN/)(not recommended)
 
 I have graduated as a Master of Engineering student from *UC Berkeley*. Now I am an assistant automation engineer at *Tesla Shanghai*.
 
@@ -77,17 +77,34 @@ Position: Key team member
 
 # Work Experience
 
-**Tesla Core Automation Engineering Team** *06/2021-present*
+## Tesla Core Automation Engineering 
 
-Position: Associate Control Engineer
-
+* Associate Control Engineer *06/2021-present*
 * Develop Tesla Standard Control Template and SCADA for autonomous manufacturing.
-* Use Ignition to make programs for better human-machine interactions.
+* Use Ignition to make programs for human-machine interactions.
 * Write PLC programs for DU EOL to control the working parts
 
-**Nanjing Seeta Tech Technology Co., Ltd**   *07/2019-08/2019*
+### PR_Viewer
 
-Position: Algorithmic intern of New Retail Department
+<!-- * A middleware to keep track of PLC tags based on Ignition. 
+* Get access to real-time tag value through OPC-UA protocol. 
+* Update the changed data to database, subscribe to this database for data analysis -->
+
+
+### DU EOL 
+
+
+### Work Instruction Management 
+
+<!-- * Non-paperized work instruction documentation
+* Manage the work instruction in database using Ignition
+* Read the work instruction with template instances and get the information of updating action.  -->
+
+
+
+## Nanjing Seeta Tech Technology Co., Ltd
+
+* Algorithmic intern of New Retail Department   *07/2019-08/2019*
 
 * Mainly responsible for designing an APP for food plate items detection and identification
 * Adopted development board with NPU(neural network process units) to realize the functions
