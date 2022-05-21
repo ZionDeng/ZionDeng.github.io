@@ -6,7 +6,7 @@ I have graduated as a Master of Engineering student from *UC Berkeley*. Now I am
 
 If you want to have a chat, feel free to contact me~
 
-Another website of mine is [ziondeng.com](http://ziondeng.com/). But it is not maintained now. 
+My linkedIn is [linkedIn](https://www.linkedin.cn/incareer/in/%E5%AD%90%E6%98%82-%E9%82%93-611595195)
 
 
 # Educational Background
