@@ -25,10 +25,15 @@ Degree: `Bachelor of Engineering`
 
 # Tesla Core Automation Engineering 
 
-* `Associate Control Engineer` *06/2021-present*
+* `Controls Engineer`  *05/2022-present*
+* `Associate Control Engineer` *06/2021-05/2022*
 * Develop Tesla Standard Control Template and SCADA for advanced manufacturing.
 * Develop advanced control programs using Ignition and Python
 * Write PLC control logic for power train plants to control the manufacturing procedures. 
+
+## DU-Testing 
+
+<!-- * Drive Unit End of Line, testing and inspections  -->
 
 ## COA
 
