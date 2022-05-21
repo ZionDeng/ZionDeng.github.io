@@ -5,8 +5,9 @@ Hey, this is my personal website, where you can get to know my basic information
 I have graduated as a Master of Engineering student from *UC Berkeley*. Now I am an assistant automation engineer at *Tesla Shanghai*.
 
 If you want to have a chat, feel free to contact me~
+* [linkedIn](https://www.linkedin.cn/incareer/in/%E5%AD%90%E6%98%82-%E9%82%93-611595195)
+* [🧣](https://weibo.com/u/5971168633)
 
-My linkedIn is [linkedIn](https://www.linkedin.cn/incareer/in/%E5%AD%90%E6%98%82-%E9%82%93-611595195)
 
 
 # Educational Background
