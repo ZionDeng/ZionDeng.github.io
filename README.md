@@ -26,43 +26,37 @@ Degree: `Bachelor of Engineering`
 
 # Tesla Core Automation Engineering 
 
-* `Controls Engineer`  *05/2022-present*
-* `Associate Control Engineer` *06/2021-05/2022*
+* `Controls Engineer`  *07/2022-present*
+* `Associate Control Engineer` *06/2021-06/2022*
 * Develop Tesla Standard Control Template and SCADA for advanced manufacturing.
 * Develop advanced control programs using Ignition and Python
 * Write PLC control logic for power train plants to control the manufacturing procedures. 
 
+<!-- 
 ## DU-Testing 
 
-<!-- * Drive Unit End of Line, testing and inspections  -->
+* Drive Unit End of Line, testing and inspections
 
 ## COA
 
-<!-- 
 * Contractor Onboard Assitant. It is designed to manage the onboard vendors and engineers. 
 * Jira tickets will automatically be created for new vendors or engineers. Ticket links will be stored at database. 
 * A front end service is designed for convenient access and management using Python Dash.  
--->
 
 ## TSASRS  
-<!-- 
 * Tesla Standard Autonomous Storing and Retrieving System, designed for Tesla warehouse storing management. 
 * Integrate all the logic control and interfaces in Python middleware. 
 * Handle interactions from different components like PLC, database and upper systems. 
- -->
 
 ## PR_Viewer
 
-<!-- 
 * Pallet Record Viewer, a middleware to keep track of PLC tags based on Ignition. 
 * Get access to real-time tag value through OPC-UA protocol. It becomes a component of DU SCADA.
 * Update the changed data to database. DU engineers subscribes the SCADA data for data analysis and error tracking. 
--->
 
 
 ## WIM 
 
-<!-- 
 * Work Instruction Management. Non-paperized work instruction documentation for Battery workshop.
 * Manage the work instruction in database using Ignition
 * Read the work instruction with template instances and display the info box of updating actions.  
