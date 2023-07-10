@@ -32,9 +32,29 @@ Degree: `Bachelor of Engineering`
 * Develop advanced control programs using Ignition and Python
 * Write PLC control logic for power train plants to control the manufacturing procedures. 
 
-## DU-Testing 
 
-<!-- * Drive Unit End of Line, testing and inspections  -->
+## TSASRS  
+<!-- 
+* Tesla Standard Autonomous Storing and Retrieving System, designed for Tesla warehouse storing management. 
+* A pure python solution containing asyncio backend, dash frontend, flask API server
+* Complete test environment, simulation program, stable production deployment and issue tracking
+ -->
+
+
+
+## DU-EOL  
+
+<!-- * Drive Unit End of Line, testing and inspections 
+* Keeping Tesla Standards, control principles, safety regulations, programming styles
+* PLC API call, User Access Management, Pallet Record with database, file storage and transfer
+* Finish Spin and Dyno test with vendor, laser and marking -->
+
+## DU-Pilot 
+
+<!-- A mini DU assembly line
+* press for input, output and intergear axis, press stator, roter, motor into DU
+* assembly and finish all the process requirements 
+* interact with Tesla manufacturing system -->
 
 ## COA
 
@@ -44,12 +64,6 @@ Degree: `Bachelor of Engineering`
 * A front end service is designed for convenient access and management using Python Dash.  
 -->
 
-## TSASRS  
-<!-- 
-* Tesla Standard Autonomous Storing and Retrieving System, designed for Tesla warehouse storing management. 
-* Integrate all the logic control and interfaces in Python middleware. 
-* Handle interactions from different components like PLC, database and upper systems. 
- -->
 
 ## PR_Viewer
 
