@@ -5,118 +5,125 @@ Hey, this is my personal website, where you can get to know my basic information
 I have graduated as a Master of Engineering student from *UC Berkeley*. Now I am an assistant automation engineer at *Tesla Shanghai*.
 
 If you want to have a chat, feel free to contact me~
-* [linkedIn](https://www.linkedin.cn/incareer/in/%E5%AD%90%E6%98%82-%E9%82%93-611595195)
-* [🧣](https://weibo.com/u/5971168633)
+- [linkedIn](https://www.linkedin.cn/incareer/in/%E5%AD%90%E6%98%82-%E9%82%93-611595195)
+- [🧣](https://weibo.com/u/5971168633)
 
-
-
-# Educational Background
-
-***University of California at Berkeley***   *08/2020 - 05/2021*
-Major: Robotics and Autonomous Systems. GPA: 3.92/4.0
-Degree:  `Master of Engineering`
-
-**Core Courses**: Advanced Control Systems, Experimental Advanced Control Design, Hybrid Systems and Intelligent Control
-
-***Nanjing Agricultural University***    *09/2016-06/2020*
-Major: Mechanical Design Manufacturing and Automation, GPA:3.91/4.5, Rank:1/58
-Degree: `Bachelor of Engineering`
-
-**Core Courses**: Advanced Mathematics, Graphing of Engineering, Theory of Machines and Mechanisms, Digital Modeling, Mechanical Design, Mechatronics Technology.
 
 # Tesla Core Automation Engineering 
 
-* `Controls Engineer`  *07/2022-present*
-* `Associate Control Engineer` *06/2021-06/2022*
-* Develop Tesla Standard Control Template and SCADA for advanced manufacturing.
-* Develop advanced control programs using Ignition and Python
-* Write PLC control logic for power train plants to control the manufacturing procedures. 
+- `Controls Engineer`  *07/2022-present*
+- `Associate Control Engineer` *06/2021-06/2022*
+- Develop Tesla Standard Control Template and SCADA for advanced manufacturing.
+- Develop advanced control programs using Ignition and Python
+- Write PLC control logic for power train plants to control the manufacturing procedures. 
 
-<!-- 
+
 ## TSASRS  
-* Tesla Standard Autonomous Storing and Retrieving System, designed for Tesla warehouse storing management. 
-* A pure python solution containing asyncio backend, dash frontend, flask API server
-* Complete test environment, simulation program, stable production deployment and issue tracking
- -->
+
+<!-- - Tesla Standard Autonomous Storing and Retrieving System, designed for Tesla warehouse storing management. 
+- A pure python solution containing asyncio backend, dash frontend, flask API server
+- Complete test environment, simulation program, stable production deployment and issue tracking -->
 
 
-<!-- 
+## GFTX GA1 ModelY 
+
+<!-- - Whole factory rebuilt in 23 days. In charge of the control topics for final1 and final2 
+- Involved in virtual commissioning, PLC project rebuilding, connection solution upgrade, buyoffs and production rampup
+- Software assisted automation, AGV monitor, PLC parameter checking, batch download using openness. -->
+
 ## DU-EOL  
 
-* Drive Unit End of Line, testing and inspections 
-* Keeping Tesla Standards, control principles, safety regulations, programming styles
-* PLC API call, User Access Management, Pallet Record with database, file storage and transfer
-* Finish Spin and Dyno test with vendor, laser and marking -->
+<!-- - Drive Unit End of Line, testing and inspections 
+- Keeping Tesla Standards, control principles, safety regulations, programming styles
+- PLC API call, User Access Management, Pallet Record with database, file storage and transfer
+- Finish Spin and Dyno test with vendor, laser and marking -->
 
-<!-- 
+
 ## DU-Pilot 
 
-A mini DU assembly line
-* press for input, output and intergear axis, press stator, roter, motor into DU
-* assembly and finish all the process requirements 
-* interact with Tesla manufacturing system -->
+<!-- A mini DU assembly line
+- press for input, output and intergear axis, press stator, roter, motor into DU
+- assembly and finish all the process requirements 
+- Tesla manufacturing operation system integrated into automation projects -->
 
-<!--
+
 ## COA
 
-* Contractor Onboard Assitant. It is designed to manage the onboard vendors and engineers. 
-* Jira tickets will automatically be created for new vendors or engineers. Ticket links will be stored at database. 
-* A front end service is designed for convenient access and management using Python Dash.  
+<!-- - Contractor Onboard Assitant. It is designed to manage the onboard vendors and engineers. 
+- Jira tickets will automatically be created for new vendors or engineers. Ticket links will be stored at database. 
+- A front end service is designed for convenient access and management using Python Dash.   -->
 
-## PR_Viewer
+<!-- ## PR_Viewer
 
-* Pallet Record Viewer, a middleware to keep track of PLC tags based on Ignition. 
-* Get access to real-time tag value through OPC-UA protocol. It becomes a component of DU SCADA.
-* Update the changed data to database. DU engineers subscribes the SCADA data for data analysis and error tracking. 
+- Pallet Record Viewer, a middleware to keep track of PLC tags based on Ignition. 
+- Get access to real-time tag value through OPC-UA protocol. It becomes a component of DU SCADA.
+- Update the changed data to database. DU engineers subscribes the SCADA data for data analysis and error tracking. 
 
 
 ## WIM 
 
-* Work Instruction Management. Non-paperized work instruction documentation for Battery workshop.
-* Manage the work instruction in database using Ignition
-* Read the work instruction with template instances and display the info box of updating actions.  
--->
+- Work Instruction Management. Non-paperized work instruction documentation for Battery workshop.
+- Manage the work instruction in database using Ignition
+- Read the work instruction with template instances and display the info box of updating actions.  
+ -->
+
+# Educational Background
+
+## ***University of California at Berkeley***   
+
+- *08/2020 - 05/2021*
+- Major: Robotics and Autonomous Systems. GPA: 3.92/4.0
+- Degree:  `Master of Engineering`
+
+- **Core Courses**: Advanced Control Systems, Experimental Advanced Control Design, Hybrid Systems and Intelligent Control
+
+## ***Nanjing Agricultural University***    
+
+- *09/2016-06/2020*
+- Major: Mechanical Design Manufacturing and Automation, GPA:3.91/4.5, Rank:1/58
+- Degree: `Bachelor of Engineering`
+- **Core Courses**: Advanced Mathematics, Graphing of Engineering, Theory of Machines and Mechanisms, Digital Modeling, Mechanical Design, Mechatronics Technology.
 
 
-# Projects at school
+## Projects at school
 
 **Capstone Project: Robotics at home** *09/2020-05/2021*
 
 Position: Software developing leader
 
-* In charge of programming and build the system framework
-* Integrate YOLO, A*, DQN and control theories for robot path-finding
-* Build simulation environment for commission and finish real-world tests
+- In charge of programming and build the system framework
+- Integrate YOLO, A*, DQN and control theories for robot path-finding
+- Build simulation environment for commission and finish real-world tests
 
 **Course Project of Advanced Control Design -Autonomous Drone Racing**   *10/2020-11/2020*
 
 Position: Team Member
 
-* Build a model for drone dynamics with cost and constraints
-* Propose a Learning Model Predictive Control(LMPC) for autonomous drone racing.
-* Simulate the racing process using Python.
+- Build a model for drone dynamics with cost and constraints
+- Propose a Learning Model Predictive Control(LMPC) for autonomous drone racing.
+- Simulate the racing process using Python.
 
 **Graduation Project and Thesis -IoT System Design for Intelligent Electric Micro-tillage Machine for Facility Horticulture**     *11/2019-05/2020*
 
-* Self-designed an IoT system for electric micro tilter combining Raspberry Pi, SenseHat, PyTorch
-* Extraordinary personal thesis and extraordinary team thesis
-* Designed an app for users and optimized the network accuracy to 90%.
+- Self-designed an IoT system for electric micro tilter combining Raspberry Pi, SenseHat, PyTorch
+- Extraordinary personal thesis and extraordinary team thesis
+- Designed an app for users and optimized the network accuracy to 90%.
 
-**Shedyou Technology: Build a Greenhouse Think Tank Service System**   *03/2018-05/2019*
+**Shedyou Technology: Build a Greenhouse Think Tank Service System*-   *03/2018-05/2019*
 
 Position: Key team member
 
-* Developed an APP using Android studio, to enable the SQL database connection, data acquisition, analysis, drawing and other functions on the Android terminal
-* Employed deep learning methods to analyze data to achieve the decision-making of farmers'' planting recommendations based on environmental factors, and to provide farmers with pest and disease warning and water and fertilizer ratio management
+- Developed an APP using Android studio, to enable the SQL database connection, data acquisition, analysis, drawing and other functions on the Android terminal
+- Employed deep learning methods to analyze data to achieve the decision-making of farmers'' planting recommendations based on environmental factors, and to provide farmers with pest and disease warning and water and fertilizer ratio management
 
 **Development of Rice Disease Detection System Based on Android Image Recognition**     *03/2018-05/2019*
 
 Position: Team leader
 
-* Accomplished the image processing of rice blast through MATLAB
-* Identified the blast disease by using various algorithms, including BP, SVM-BP, deep convolutional neural network, etc.
-* Utilized stepwise regression method to achieve the level of rice blast classification
-* Successfully finished image processing, and optimized the system interface through Android studio
+- Accomplished the image processing of rice blast through MATLAB
+- Identified the blast disease by using various algorithms, including BP, SVM-BP, deep convolutional neural network, etc.
+- Utilized stepwise regression method to achieve the level of rice blast classification
+- Successfully finished image processing, and optimized the system interface through Android studio
 
   
 # Publications & Patent
@@ -133,11 +140,11 @@ Position: Team leader
 
 # Nanjing Seeta Tech Technology Internship
 
-* Algorithmic intern of New Retail Department   *07/2019-08/2019*
+- Algorithmic intern of New Retail Department   *07/2019-08/2019*
 
-* Mainly responsible for designing an APP for food plate items detection and identification
-* Adopted development board with NPU(neural network process units) to realize the functions
-* Self-learned and used deep learning models including YOLO and RelD, successfully reduced the recognition time of single image from 1.8 seconds to 0.5 seconds
+- Mainly responsible for designing an APP for food plate items detection and identification
+- Adopted development board with NPU(neural network process units) to realize the functions
+- Self-learned and used deep learning models including YOLO and RelD, successfully reduced the recognition time of single image from 1.8 seconds to 0.5 seconds
 
 # Awards
 
