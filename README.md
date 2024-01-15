@@ -17,43 +17,48 @@ If you want to have a chat, feel free to contact me~
 - Develop advanced control programs using Ignition and Python
 - Write PLC control logic for power train plants to control the manufacturing procedures. 
 
+## GFTX GA1 ModelY  
 
-## TSASRS  
+- Whole factory rebuilt in 2️⃣3️⃣ days. In charge of the control topics for final1 and final2 
+- Involved in virtual commissioning, PLC project reconstruction, connection solution upgrade, buyoffs and production rampup
+- Software assisted automation, AGV monitor, PLC parameter checking, batch download using openness.
 
-<!-- - Tesla Standard Autonomous Storing and Retrieving System, designed for Tesla warehouse storing management. 
-- A pure python solution containing asyncio backend, dash frontend, flask API server
-- Complete test environment, simulation program, stable production deployment and issue tracking -->
+## MGSH Qbert  
 
+- Qbert production line for MEGAPack Factory Shanghai 🔋 
+- In charge of the control AND electric topics  
+- Highly automated production line, multiple vision applications and accurate sequence production 
 
-## GFTX GA1 ModelY 
+## TS-ASRS_V2
 
-<!-- - Whole factory rebuilt in 23 days. In charge of the control topics for final1 and final2 
-- Involved in virtual commissioning, PLC project rebuilding, connection solution upgrade, buyoffs and production rampup
-- Software assisted automation, AGV monitor, PLC parameter checking, batch download using openness. -->
+- Tesla Standard Autonomous Storing and Retrieving System, designed for Tesla warehouse storing management. 
+- A pure python solution containing asyncio backend, dash frontend, flask API server, SSO authentication 
+- Complete test environment 💯, simulation program, stable production deployment and issue tracking 
+
 
 ## DU-EOL  
 
-<!-- - Drive Unit End of Line, testing and inspections 
+- Drive Unit End of Line, testing and inspections 
 - Keeping Tesla Standards, control principles, safety regulations, programming styles
 - PLC API call, User Access Management, Pallet Record with database, file storage and transfer
-- Finish Spin and Dyno test with vendor, laser and marking -->
+- Finish Spin and Dyno test with vendor, laser and marking
 
 
 ## DU-Pilot 
 
-<!-- A mini DU assembly line
+- A mini DU assembly line 
 - press for input, output and intergear axis, press stator, roter, motor into DU
 - assembly and finish all the process requirements 
-- Tesla manufacturing operation system integrated into automation projects -->
+- Tesla manufacturing operation system integrated into automation projects
 
 
 ## COA
 
-<!-- - Contractor Onboard Assitant. It is designed to manage the onboard vendors and engineers. 
+- Contractor Onboard Assitant. It is designed to manage the onboard vendors and engineers. 
 - Jira tickets will automatically be created for new vendors or engineers. Ticket links will be stored at database. 
-- A front end service is designed for convenient access and management using Python Dash.   -->
+- A front end service is designed for convenient access and management using Python Dash.  
 
-<!-- ## PR_Viewer
+## PR_Viewer
 
 - Pallet Record Viewer, a middleware to keep track of PLC tags based on Ignition. 
 - Get access to real-time tag value through OPC-UA protocol. It becomes a component of DU SCADA.
@@ -65,7 +70,7 @@ If you want to have a chat, feel free to contact me~
 - Work Instruction Management. Non-paperized work instruction documentation for Battery workshop.
 - Manage the work instruction in database using Ignition
 - Read the work instruction with template instances and display the info box of updating actions.  
- -->
+
 
 # Educational Background
 
