@@ -1,21 +1,23 @@
 # Zion DENG
 
-Hey, this is my personal website, where you can get to know my basic information and related work. Turn to [Chinese中文](https://ziondeng.github.io/CN/)(not recommended)
+- Hey, this is my personal profile 📖, 
+  - containing my basic information and related work. 
+  - Turn to [Chinese中文](https://ziondeng.github.io/CN/)(not recommended)
+- Now I am an automation engineer at *Tesla Shanghai*.
+  - graduated as a Master of Engineering student from *UC Berkeley*. 
+  - undergraduated from *Nanjing Agriculture University*.
+- If you want to have a chat, feel free to contact me~
+  - [linkedIn](https://www.linkedin.com/in/611595195/)
+  - [🧣](https://weibo.com/u/5971168633)
 
-I have graduated as a Master of Engineering student from *UC Berkeley*. Now I am an assistant automation engineer at *Tesla Shanghai*.
-
-If you want to have a chat, feel free to contact me~
-- [linkedIn](https://www.linkedin.cn/incareer/in/%E5%AD%90%E6%98%82-%E9%82%93-611595195)
-- [🧣](https://weibo.com/u/5971168633)
-
-
+3
 # Tesla Core Automation Engineering 
 
 - `Controls Engineer`  *07/2022-present*
 - `Associate Control Engineer` *06/2021-06/2022*
+- PLC programmer for automation production lines 
 - Develop Tesla Standard Control Template and SCADA for advanced manufacturing.
 - Develop advanced control programs using Ignition and Python
-- Write PLC control logic for power train plants to control the manufacturing procedures. 
 
 ## GFTX GA1 ModelY  
 
@@ -36,7 +38,7 @@ If you want to have a chat, feel free to contact me~
 - Complete test environment 💯, simulation program, stable production deployment and issue tracking 
 
 
-## DU-EOL  
+## 4DU-EOL  
 
 - Drive Unit End of Line, testing and inspections 
 - Keeping Tesla Standards, control principles, safety regulations, programming styles
@@ -138,7 +140,6 @@ Position: Team leader
 [Maohua Xiao, You Ma, Zhixiang Feng, Ziang Deng, Shishuang Hou, Lei Shu, ZhiXiong Lu. Rice Blast Recognition Based on Principal Component Analysis and Neural Network, Computers and Electronics in Agriculture (ISSN:0168-1699), August 2018,p.482-490.](Doc/Publications/Rice%20blast%20recognition%20based%20on%20principal%20component%20analysis%20and%20neural%20network.pdf)
 
 [Jingjing Kang, You Ma, Maohua Xiao, Zhixiang Feng, Ziang Deng, Sanqin Zhao. Rice Blast Recognition Based on Image Processing and BP Neural Network, International Agricultural Engineering Journal(ISSN:0858-2114), March 2018,p.250-256.](Doc/Publications/Rice%20blast%20recognition%20based%20on%20image%20processing%20and%20BP%20neural%20network.pdf)
-
 
 [Maohua Xiao, You Ma, Ziang Deng, Zhixiang Feng, Jingjing Kang, Shishuang Hou.A Method for Rice Blast Identification Based on Aerial Field Image, August 2021. No.:2021071900616710.](Doc/Publications/Patent%20-%20A%20Method%20for%20Rice%20Blast%20Identification%20Based%20on%20Aerial%20Field%20Image.pdf.pdf)
 
