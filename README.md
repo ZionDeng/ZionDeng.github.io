@@ -8,7 +8,7 @@
   - undergraduated from *Nanjing Agriculture University*.
 - If you want to have a chat, feel free to contact me~
   - [linkedIn](https://www.linkedin.com/in/611595195/)
-  - [🧣](https://weibo.com/u/5971168633)
+  - [Email](mailto:ziondeng7@gmail.com)
 
 3
 # Tesla Core Automation Engineering 
