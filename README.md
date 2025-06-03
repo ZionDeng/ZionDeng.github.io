@@ -1,3 +1,18 @@
+---
+title: "Zion DENG"
+header-includes: |
+  <style>
+    @page { margin: 2cm; } /* 控制PDF页边距 */
+  </style>
+---
+
+<div class="header">
+  Zion DENG | 📧 569598401@qq.com | 📞 (+86) 13812639957 | 🌐 https://ziondeng.github.io 
+</div>
+
+---
+
+
 # Zion DENG
 
 - Hey, this is my personal profile 📖, 
@@ -10,7 +25,6 @@
   - [linkedIn](https://www.linkedin.com/in/611595195/)
   - [Email](mailto:ziondeng7@gmail.com)
 
-3
 # Tesla Core Automation Engineering 
 
 - `Controls Engineer`  *07/2022-present*
@@ -18,6 +32,12 @@
 - PLC programmer for automation production lines 
 - Develop Tesla Standard Control Template and SCADA for advanced manufacturing.
 - Develop advanced control programs using Ignition and Python
+
+## MFSH Qbert  
+
+- Controls lead for Qbert project, in charge of the whole life from design to ramp up  
+- self develop new functions, whole line data tracing, production decision, debug and cocommission of the new version of the station controller
+- Newly designed non-block chain programming and deployment, relying only on sensors and lifting to achieve high-precision heavy-duty workpiece carrying and positioning
 
 ## GFTX GA1 ModelY  
 
