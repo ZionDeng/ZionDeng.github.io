@@ -45,12 +45,6 @@ header-includes: |
 - Involved in virtual commissioning, PLC project reconstruction, connection solution upgrade, buyoffs and production rampup
 - Software assisted automation, AGV monitor, PLC parameter checking, batch download using openness.
 
-## MGSH Qbert  
-
-- Qbert production line for MEGAPack Factory Shanghai 🔋 
-- In charge of the control AND electric topics  
-- Highly automated production line, multiple vision applications and accurate sequence production 
-
 ## TS-ASRS_V2
 
 - Tesla Standard Autonomous Storing and Retrieving System, designed for Tesla warehouse storing management. 
