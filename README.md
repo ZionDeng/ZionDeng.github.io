@@ -11,9 +11,9 @@ Automation Engineer with 4+ years of experience at Tesla, specializing in **indu
 **Controls Engineer** · *07/2022 – Present*  
 **Associate Controls Engineer** · *06/2021 – 06/2022*
 
-- Program and optimize automation production lines and robotic systems.
-- Develop Tesla Standard Control Templates and SCADA systems for advanced manufacturing.
-- Build and enhance control applications using Ignition and Python.
+- Core contributor to Tesla Lithium Platform for full automation solutions 
+- Contributor to Tesla Standard systems and igntion platforms for advanced manufacturing.
+- Design and develop various automation production lines and robot applications.
 
 ## Lithium Platform Core Developer
 
