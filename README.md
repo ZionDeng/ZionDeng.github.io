@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: "Zion DENG"
 header-includes: |
   <style>
@@ -10,42 +10,45 @@ header-includes: |
   Zion DENG | 📧 569598401@qq.com | 📞 (+86) 13812639957 | 🌐 https://ziondeng.github.io 
 </div>
 
---- -->
+---
 
 
 # Zion DENG
 
-- Hey, this is my personal profile 📖, 
-  - containing my basic information and related work. 
-  - Turn to [Chinese中文](https://ziondeng.github.io/CN/)(not recommended)
-- Now I am an automation engineer at *Tesla Shanghai*.
-  - graduated as a Master of Engineering student from *UC Berkeley*. 
-  - undergraduated from *Nanjing Agriculture University*.
-- If you want to have a chat, feel free to contact me~
-  - [linkedIn](https://www.linkedin.com/in/611595195/)
-  - [Email](mailto:ziondeng7@gmail.com)
+Automation Engineer with 4+ years at Tesla, specializing in **Industrial robots** and **Industrial Automation applicaitons**. Expertise in Python applications. MS in Robotics @ UC Berkeley.
 
 # Tesla Core Automation Engineering 
 
 - `Controls Engineer`  *07/2022-present*
 - `Associate Control Engineer` *06/2021-06/2022*
-- PLC programmer for automation production lines 
+- Programmer for automation production lines and robots
 - Develop Tesla Standard Control Template and SCADA for advanced manufacturing.
 - Develop advanced control programs using Ignition and Python
+
+
 
 ## MFSH Qbert  
 
 - Controls lead for Qbert project, in charge of the whole life from design to ramp up  
-- self develop new functions, whole line data tracing, production decision, debug and cocommission of the new version of the station controller
-- Newly designed non-block chain programming and deployment, relying only on sensors and lifting to achieve high-precision heavy-duty workpiece carrying and positioning
+- self develop new functions, whole line data tracing, production decision, production Queue broadcast
+- Newly designed non-stopper chain programming and deployment and lifting to achieve high-precision (<3mm) heavy-duty workpiece > 1.8ton and positioning with <5ms latency
+- Used Fanuc IRvision to locate busbar screwing hole with accuracy of <2mm
+- Used UR robot with Cognex vision solution to finish tasks including hipot and screwing. 
+
+
+## Tianshu 
+
+- AGV control system using ignition with perspective frontend, light weighted solution (<20MB) with non outside packages 
+- Handles AGV job requests and orders, waypoint and junction decision, with A* path finding and colision avoidance  
+- Map configuration with AutoCAD waypoint and OPCUA communcation with PLC 
 
 ## GFTX GA1 ModelY  
 
 - Whole factory rebuilt in 2️⃣3️⃣ days. In charge of the control topics for final1 and final2 
-- Involved in virtual commissioning, PLC project reconstruction, connection solution upgrade, buyoffs and production rampup
+- Involved in virtual commissioning, PLC project reconstruction, connection solution upgrade, robot buyoffs and production rampup
 - Software assisted automation, AGV monitor, PLC parameter checking, batch download using openness.
 
-## TS-ASRS_V2
+# TS-ASRS_V2
 
 - Tesla Standard Autonomous Storing and Retrieving System, designed for Tesla warehouse storing management. 
 - A pure python solution containing asyncio backend, dash frontend, flask API server, SSO authentication 
@@ -65,27 +68,8 @@ header-includes: |
 - A mini DU assembly line 
 - press for input, output and intergear axis, press stator, roter, motor into DU
 - assembly and finish all the process requirements 
-- Tesla manufacturing operation system integrated into automation projects
+- Implemented closed-loop control for motor assembly, achieving ±0.1mm precision through PID
 
-
-## COA
-
-- Contractor Onboard Assitant. It is designed to manage the onboard vendors and engineers. 
-- Jira tickets will automatically be created for new vendors or engineers. Ticket links will be stored at database. 
-- A front end service is designed for convenient access and management using Python Dash.  
-
-## PR_Viewer
-
-- Pallet Record Viewer, a middleware to keep track of PLC tags based on Ignition. 
-- Get access to real-time tag value through OPC-UA protocol. It becomes a component of DU SCADA.
-- Update the changed data to database. DU engineers subscribes the SCADA data for data analysis and error tracking. 
-
-
-## WIM 
-
-- Work Instruction Management. Non-paperized work instruction documentation for Battery workshop.
-- Manage the work instruction in database using Ignition
-- Read the work instruction with template instances and display the info box of updating actions.  
 
 
 # Educational Background
@@ -114,7 +98,7 @@ Position: Software developing leader
 
 - In charge of programming and build the system framework
 - Integrate YOLO, A*, DQN and control theories for robot path-finding
-- Build simulation environment for commission and finish real-world tests
+- Led software architecture for home robot, deploying YOLOv5 on Raspberry Pi + NVIDIA Jetson for object detection (FPS≥15), and implementing DQN-based path planning with obstacle avoidance (success rate 94%)
 
 **Course Project of Advanced Control Design -Autonomous Drone Racing**   *10/2020-11/2020*
 
@@ -130,7 +114,7 @@ Position: Team Member
 - Extraordinary personal thesis and extraordinary team thesis
 - Designed an app for users and optimized the network accuracy to 90%.
 
-**Shedyou Technology: Build a Greenhouse Think Tank Service System*-   *03/2018-05/2019*
+**Shedyou Technology: Build a Greenhouse Think Tank Service System** *03/2018-05/2019*
 
 Position: Key team member
 
@@ -181,12 +165,3 @@ Position: Team leader
 | [**The 3d National Intelligent Agricultural Equipment Innovation Competition**](Doc/Awards/东方红.pdf)     | _National Second Prize_             | 12/2017 |
 | [**Jiangsu 14h Higher Mathematics Competition**](Doc/Awards/高数.pdf)                                      | _Second Prize_                      | 06/2017 |
 
-
-# Extracurricular Activities
-
-MIT "Artificial Intelligence and Robotics" International Certificate Program  *01/2019-02/2019*
--Learned about artificial intelligence and robotics, and finished the class presentation
-
-Student Union, Minister of Career Development Department   *09/2017-06/2018*
--Organized a number of activities including Business Incubator Visit, Mock Interviews and etc.
--Obtained the title of "Outstanding Minister of the Student Union"
